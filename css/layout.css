@@ -49,15 +49,13 @@
   
 }
 
-.box-deal {
-  width:33.3%;
-}
 /* Four */
 
 
 .small {
   float: left;
-   width: 33%;
+  width: 33%;
+  background-color: white; 
 }
 
 /*
