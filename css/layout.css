@@ -24,6 +24,12 @@
 
 /* Posititoning Classes */
 
+.column {
+  width:30%;
+  display:inline;
+}
+
+
 .left {
   float: left;
   width: 60%;
