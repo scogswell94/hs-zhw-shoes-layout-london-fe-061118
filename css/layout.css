@@ -61,8 +61,7 @@
 }
 
 .small {
-    display: flex;
-    flex-direction: column;
+   float: left;
     width: 30%;
 }
 
