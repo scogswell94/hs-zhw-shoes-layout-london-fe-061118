@@ -24,4 +24,53 @@
 
 /* Posititoning Classes */
 
+.column {
+  width:30%;
+  display:inline;
+}
 
+
+
+
+
+.large {
+  width:300%;
+}
+/* details */
+
+/* details */
+/* details */
+
+
+.med {
+  float: left;
+  width: 60%;
+}
+
+.shadow-1 {
+  float: right;
+  width: 60%;
+}
+
+.border_right small {
+   float: left;
+   width: 33.33%;
+   padding: 10px;
+}
+
+.small {
+
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*
+1. Open `index.html` in your browser to see what we have so far (most of the work is completed already)
+
+2. Write the necessary CSS in `css/layout.css` to create classes for a three column grid
+
+3. Update `index.html` to make use of your newly created CSS classes 
+
+4. Either provide sized tile classes, make use of [the clearfix hack][Clearfix] using `float` and `clear`, or use your own implementation to accurately fill the columns with content
+*\
