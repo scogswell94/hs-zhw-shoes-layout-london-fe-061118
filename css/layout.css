@@ -41,7 +41,7 @@
 /* Three */
 .container-deal {
   display: flex;
-  flex-direction: 
+  flex-direction: column;
 }
 
 .box-deal {
