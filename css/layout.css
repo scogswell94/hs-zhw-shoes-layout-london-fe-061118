@@ -52,9 +52,7 @@
 }
 /* Four */
 .wrapper {
- content: "";
-    display: table;
-    clear: both;
+    
 }
 
 .small {
