@@ -37,13 +37,13 @@
 .left {
   float: left;
   width: 60%;
-  padding-bottom: 50px;
  
 }
 
 .right {
   float: right;
   width: 40%;
+  
 }
 
 /* Three */
@@ -54,7 +54,6 @@
 .box-deal {
   width:33.3%;
 }
-
 /* Four */
 .wrapper {
     width: 100%;
