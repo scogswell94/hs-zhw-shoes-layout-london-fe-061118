@@ -29,40 +29,23 @@
   display:inline;
 }
 
-
-
-
-
 .large {
   width:300%;
 }
-/* details */
-
-/* details */
-/* details */
-
 
 .med {
   float: left;
   width: 60%;
 }
 
-.shadow-1 {
-  float: right;
+.left {
+  float: left;
   width: 60%;
 }
 
-.border_right small {
-   float: left;
-   width: 33.33%;
-   padding: 10px;
-}
-
-.small {
-
-  content: "";
-  display: table;
-  clear: both;
+.right {
+  float: right;
+  width: 35%;
 }
 
 /*
