@@ -24,6 +24,7 @@
 
 /* Posititoning Classes */
 
+//////////* feature pages *////////////////
 .left {
   float: left;
   width: 60%;
@@ -34,6 +35,8 @@
   float: right;
   width: 35%;
 }
+
+//////////* shoes  *////////////////
 
 /*
 1. Open `index.html` in your browser to see what we have so far (most of the work is completed already)
