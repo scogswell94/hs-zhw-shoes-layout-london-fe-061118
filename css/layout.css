@@ -54,7 +54,10 @@
 }
 
 .small {
-  
+  float: left;
+    width: 25%;
+    padding: 10px;
+    height: 300px;
 }
 
 /*
