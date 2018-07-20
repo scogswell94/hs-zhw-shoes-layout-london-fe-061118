@@ -40,12 +40,11 @@
 
 /* Three */
 .container-deal {
-  
+  display: flex;
+  flex-direction: 
 }
 
 .box-deal {
-  display: flex;
-  flex-direction: column;
   width:30%;
   
   
