@@ -54,7 +54,7 @@
 }
 
 .small {
-  float: left;
+    align-items: center;
     width: 25%;
     padding: 10px;
     height: 300px;
