@@ -22,6 +22,48 @@
   clear: both;
 }
 
+.white {
+  background-color: white;
+}
+
 /* Posititoning Classes */
 
+/* feature page */
 
+
+
+.left {
+  float: left;
+  width: 60%;
+ 
+}
+
+.right {
+  float: right;
+  width: 40%;
+  
+}
+
+/* Three */
+.container-deal {
+  
+}
+
+/* Four */
+
+
+.small {
+  float: left;
+  width: 33%;
+ 
+}
+
+/*
+1. Open `index.html` in your browser to see what we have so far (most of the work is completed already)
+
+2. Write the necessary CSS in `css/layout.css` to create classes for a three column grid
+
+3. Update `index.html` to make use of your newly created CSS classes 
+
+4. Either provide sized tile classes, make use of [the clearfix hack][Clearfix] using `float` and `clear`, or use your own implementation to accurately fill the columns with content
+*\
