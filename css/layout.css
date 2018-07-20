@@ -30,6 +30,10 @@
 
 /* feature page */
 
+.feature {
+  height: 500px;
+}
+
 .left {
   float: left;
   width: 60%;
