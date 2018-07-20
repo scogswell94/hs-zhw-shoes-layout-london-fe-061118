@@ -35,6 +35,7 @@
 .right {
   float: right;
   width: 35%;
+  clearfix: both;
 }
 
 /* Three */
