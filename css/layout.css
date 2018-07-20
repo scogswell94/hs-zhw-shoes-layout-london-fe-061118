@@ -48,12 +48,12 @@
 }
 /* Four */
 .wrapper {
-  
+  width: 25%;
+  padding: 10px;
 }
 
 .small {
-  width: 25%;
-  padding: 10px;
+  
 }
 /*
 1. Open `index.html` in your browser to see what we have so far (most of the work is completed already)
