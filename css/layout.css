@@ -18,14 +18,11 @@
   line-height: 0;
 }
 
-
-/* Posititoning Classes */
-
-.column {
-  width:30%;
-  display:inline;
+.clear {
+  clear: both;
 }
 
+/* Posititoning Classes */
 
 .left {
   float: left;
