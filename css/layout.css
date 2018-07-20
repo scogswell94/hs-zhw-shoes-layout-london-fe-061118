@@ -43,6 +43,10 @@
   width: 60%;
 }
 
+img {
+  width: 100%;
+}
+
 .right {
   float: right;
   width: 35%;
