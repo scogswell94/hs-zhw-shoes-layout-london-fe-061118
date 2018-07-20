@@ -24,15 +24,10 @@
 
 /* Posititoning Classes */
 
-.column {
-  width:100%;
-  display:inline;
-}
-
-
 .left {
   float: left;
   width: 60%;
+  height: 300px;
 }
 
 .right {
